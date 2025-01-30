@@ -38,7 +38,7 @@ const date = ref(new Date());
           </div>
         </div>
         <div class="text-center">
-          <h1 class="uppercase text-8xl text-white">://DEAD.</h1>
+          <h1 class="uppercase text-8xl text-white">://GHOST.</h1>
         </div>
 
         <div class="grid grid-cols-4">
